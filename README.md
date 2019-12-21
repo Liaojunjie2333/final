@@ -109,7 +109,7 @@
 #### （4）原型文档——展示、下载区
 - [原型文档——展示](http://nfunm047.gitee.io/museum_self_purchase_prototype)
 
--  [原型文档——下载地址]()
+- [原型文档——下载地址](https://github.com/Liaojunjie2333/museum_self_purchase_prototype)
 ### 十一、API的使用水平
 ***
 待完成...
