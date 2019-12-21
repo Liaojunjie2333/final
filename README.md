@@ -65,12 +65,21 @@
 
 ### 八、产品结构图
 ***
-待完成...
+#### （1）产品基础结构图
 
+![产品基础结构图.png](https://upload-images.jianshu.io/upload_images/9455181-6bdae81ff46246f9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+#### （2）产品功能结构图
+
+![产品功能结构图.png](https://upload-images.jianshu.io/upload_images/9455181-b984b12dc1a0b723.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+#### （3）产品信息结构图
+
+![产品信息结构图.png](https://upload-images.jianshu.io/upload_images/9455181-3343777f7ce1b583.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### 九、产品使用流程图
 ***
-待完成...
+![博物馆自助购.png](https://upload-images.jianshu.io/upload_images/9455181-47e203889ba76b64.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### 十、产品原型
 ***
