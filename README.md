@@ -83,8 +83,32 @@
 
 ### 十、产品原型
 ***
-待完成...
+#### （1）口头操作说明
+#### * 操作说明-微信授权
+***
 
+
+#### * 操作说明-拍照搜索
+***
+
+
+#### * 操作说明-购物车
+***
+
+
+#### * 操作说明-我
+***
+
+
+#### （2）AI加值——交互及界面设计
+
+#### （3）AI加值——信息设计
+
+#### （4）原型文档——展示、下载区
+- [原型文档——展示](http://nfunm047.gitee.io/museum__prototype)
+
+-  [原型文档——下载地址]([https://github.com/Liaojunjie2333/Prototype-document-Museum](https://github.com/Liaojunjie2333/Prototype-document-Museum)
+)
 ### 十一、API的使用水平
 ***
 待完成...
