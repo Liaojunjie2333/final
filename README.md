@@ -67,7 +67,9 @@
 ***
 #### （1）产品基础结构图
 
-![产品基础结构图.png](https://upload-images.jianshu.io/upload_images/9455181-6bdae81ff46246f9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![产品基础结构图.png](https://upload-images.jianshu.io/upload_images/9455181-c8f12d5506f7a4b9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
 
 #### （2）产品功能结构图
 
@@ -84,20 +86,20 @@
 ### 十、产品原型
 ***
 #### （1）口头操作说明
-#### * 操作说明-微信授权
-***
+#### * 操作说明-微信授权模块
 
 
-#### * 操作说明-拍照搜索
-***
+
+#### * 操作说明-拍照搜索模块
 
 
-#### * 操作说明-购物车
-***
+
+#### * 操作说明-购物车模块
 
 
-#### * 操作说明-我
-***
+
+#### * 操作说明-我模块
+
 
 
 #### （2）AI加值——交互及界面设计
@@ -105,10 +107,9 @@
 #### （3）AI加值——信息设计
 
 #### （4）原型文档——展示、下载区
-- [原型文档——展示](http://nfunm047.gitee.io/museum__prototype)
+- [原型文档——展示](http://nfunm047.gitee.io/museum_self_purchase_prototype)
 
--  [原型文档——下载地址]([https://github.com/Liaojunjie2333/Prototype-document-Museum](https://github.com/Liaojunjie2333/Prototype-document-Museum)
-)
+-  [原型文档——下载地址]()
 ### 十一、API的使用水平
 ***
 待完成...
