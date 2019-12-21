@@ -88,6 +88,8 @@
 #### （1）口头操作说明
 #### * 操作说明-微信授权模块
 
+![微信授权模块.png](https://upload-images.jianshu.io/upload_images/9455181-f95f279a8324222c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 
 #### * 操作说明-拍照搜索模块
@@ -96,10 +98,12 @@
 
 #### * 操作说明-购物车模块
 
+![购物车模块.png](https://upload-images.jianshu.io/upload_images/9455181-580406b186e7fdad.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 #### * 操作说明-我模块
 
+![我模块.png](https://upload-images.jianshu.io/upload_images/9455181-c25d919cbc6f90d3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 #### （2）AI加值——交互及界面设计
