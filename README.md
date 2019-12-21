@@ -65,10 +65,11 @@
 
 ### 八、产品结构图
 ***
+- 若该网页的图片无法正常显示，请在[原型文档](http://nfunm047.gitee.io/museum_self_purchase_prototype)中查看。
+
 #### （1）产品基础结构图
 
 ![产品基础结构图.png](https://upload-images.jianshu.io/upload_images/9455181-c8f12d5506f7a4b9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
 
 
 #### （2）产品功能结构图
@@ -81,10 +82,14 @@
 
 ### 九、产品使用流程图
 ***
+- 若该网页的图片无法正常显示，请在[原型文档](http://nfunm047.gitee.io/museum_self_purchase_prototype)中查看。
+
 ![博物馆自助购.png](https://upload-images.jianshu.io/upload_images/9455181-47e203889ba76b64.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### 十、产品原型
 ***
+- 若该网页的图片无法正常显示，请在[原型文档](http://nfunm047.gitee.io/museum_self_purchase_prototype)中查看。
+
 #### （1）口头操作说明
 #### * 操作说明-微信授权模块
 
@@ -92,7 +97,19 @@
 
 
 
-#### * 操作说明-拍照搜索模块
+#### * 操作说明-拍照搜索（商品图像搜索）模块
+
+![拍照搜索01.png](https://upload-images.jianshu.io/upload_images/9455181-bf19d1a5177e8035.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![拍照搜索02.png](https://upload-images.jianshu.io/upload_images/9455181-dd14c1d41794db68.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![拍照搜索03.png](https://upload-images.jianshu.io/upload_images/9455181-49732efd9322e082.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![拍照搜索04.png](https://upload-images.jianshu.io/upload_images/9455181-2bd7b22e4ba6c937.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![拍照搜索05.png](https://upload-images.jianshu.io/upload_images/9455181-7a418c39bb450bf2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![拍照搜索06.png](https://upload-images.jianshu.io/upload_images/9455181-aae00848d2d53835.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 
