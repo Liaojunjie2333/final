@@ -151,13 +151,99 @@
 
 ### （十一）API的使用水平
 ***
-待完成...
+- API：百度AI——图像搜索服务——商品图片搜索
+- HTTP 方法：POST
 
+- 请求URL： https://aip.baidubce.com/rest/2.0/image-classify/v1/realtime_search/product/search
+
+- 输入：要进行检索的商品图片
+```
+# encoding:utf-8
+
+import requests
+import base64
+
+'''
+
+'''
+
+request_url = "https://aip.baidubce.com/rest/2.0/image-classify/v1/realtime_search/product/search"
+# 二进制方式打开图片文件
+f = open('[本地文件]', 'rb')
+img = base64.b64encode(f.read())
+
+params = {"image":img}
+access_token = '[调用鉴权接口获取的token]'
+request_url = request_url + "?access_token=" + access_token
+headers = {'content-type': 'application/x-www-form-urlencoded'}
+response = requests.post(request_url, data=params, headers=headers)
+if response:
+    print (response.json())
+
+```
+
+-  输出：相关性最大的商品图片摘要信息（可关联至图库中的图片id/图片url）
+
+```
+{
+    "result_num": 1,
+    "result": [
+        {
+            "score": 0.97976700290421, #图片相关性，取值范围0-1，越接近1代表越相似
+            "brief": "./data/jay1.jpg",  #入库时添加的brief信息（可关联至本地图库的图片id或者图片url）
+            "cont_sign": "475124309,1080176642"  #图片签名，可以用来删除图片或定位问题
+        }
+    ],
+	"has_more" : "false",
+    "log_id": 1968648150
+}
+
+```
 ### （十二）API的使用比较分析
 ***
-待完成...
+#### （1）自身分析：百度AI——图像搜索服务
+**API性价比方面**：
+- 具有每日免费调用额度 ，且通付费后，每日免费调用额度仍保留；              
+- 可选择“按调用量付费”进行API调用；
+- “次数包”接口调用低至4元/千次；
+- 标准化接口封装，提供丰富的HTTP SDK，配套可视化图库管理后台，接入简单，快速上手；
+- [产品价格](https://ai.baidu.com/docs#/IMAGESEARCH-Pricing/c2ba822b)（可查链接）
+
+
+**API成熟度方面**：
+- 已有应用案例：该服务已经应用在“当当网”、“健客网”、美玉秀秀APP等其他应用、平台上；
+
+- 算法准确性高：基于数千万量级的训练数据、数万个语义类别进行模型训练及图库积累，使用精准的算法迭代模型不断提高准确度。
+
+- 支持亿级超大图库：自建图库支持亿级图片量上传入库，实现实时检索，单图毫秒级响应。
+- [产品优势](https://ai.baidu.com/tech/imagesearch/product)（可查链接）
+
+
+#### （2）竞争对手分析：阿里云——图像搜索服务
+ **API性价比方面**：
+-  无每日免费调用额度；
+-  采用购买按月（自然月）预付费资源包的计费方式；
+- [产品价格](https://help.aliyun.com/document_detail/85153.html?spm=a2c4g.11186623.6.544.41133d28ru7FxY)（可查链接）
+
+**API成熟度方面**：
+- 搜索效率高：结合超大规模聚类和量化索引技术，达到毫秒级响应。
+- 搜索精度高：业内领先水平的搜索服务。
+- [产品优势](https://ai.aliyun.com/imagesearch?spm=5176.224200.h2v3icoap.194.4b1a6ed6KVRWe0&aly_as=I4K90Mri)（可查链接）
+
+#### （3）总结
+- **性价比方面**，百度方的调用性价比较高。首先，具有每日免费调用次数，在一定程度上节省了一定的成本；其次，提供“按调用量付费”的付费方式，使成本的可控制性更强，可避免浪费成本。而且，其接入服务简单易用，能够快速上手。
+
+- **成熟度方面**，百度方和阿里方各有各的产品优势、技术优势，但百度方的产品已经有应用在市面上常见的平台上，可见其成熟度还是略胜一筹的。
 
 ### （十三）API使用后风险报告
 ***
-待完成...
+所使用的API类别的现在及未来发展性
+
+#### API市场竞争程度
+
+#### 输入输出限制
+
+#### 定价
+
+#### 可替代的程序库（改用自己开发的代码及数据库而不用API）
 
