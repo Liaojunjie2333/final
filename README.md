@@ -92,7 +92,7 @@
 
 ### （八）产品结构图
 ***
-- 若该网页的图片无法正常显示，请在[原型文档](http://nfunm047.gitee.io/museum_self_purchase_prototype)中查看。
+- 若图片无法正常显示，请在[原型文档](http://nfunm047.gitee.io/museum_self_purchase_prototype)中查看。
 
 #### （1）产品基础结构图
 
@@ -109,13 +109,13 @@
 
 ### （九）产品使用流程图
 ***
-- 若该网页的图片无法正常显示，请在[原型文档](http://nfunm047.gitee.io/museum_self_purchase_prototype)中查看。
+- 若图片无法正常显示，请在[原型文档](http://nfunm047.gitee.io/museum_self_purchase_prototype)中查看。
 
 ![使用流程图.png](https://upload-images.jianshu.io/upload_images/9455181-20b03e9c6a2a6769.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### （十）产品原型
 ***
-- 若该网页的图片无法正常显示，请在[原型文档](http://nfunm047.gitee.io/museum_self_purchase_prototype)中查看。
+- 若原型图片无法正常显示，请在[原型文档](http://nfunm047.gitee.io/museum_self_purchase_prototype)中查看。
 
 #### （1）口头操作说明
 
@@ -134,6 +134,8 @@
 ![拍照搜索05.png](https://upload-images.jianshu.io/upload_images/9455181-456e1282a2b0f315.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![拍照搜索06.png](https://upload-images.jianshu.io/upload_images/9455181-26359f3a3d192975.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+***
 
 ![相册图片搜索01.png](https://upload-images.jianshu.io/upload_images/9455181-6d82e8e1684d0b37.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -160,15 +162,19 @@
 
 #### （2）AI加值——交互及界面设计
 
-- 在交互及界面设计的核心交互环节——【用户拍摄博物馆纪念品图片——手机自动扫描在搜索对应的纪念品图片等信息——返回纪念品信息列表】中，使用了人工智能的加值，即使用了【图像搜索服务——商品图片搜索】的加值。
+- 在交互及界面设计的核心交互环节——【用户拍摄博物馆纪念品图片——手机自动扫描搜索对应的纪念品图片——返回同款/相似纪念品信息列表】中，使用了人工智能的加值，即使用了【图像搜索服务——商品图片搜索】的加值。
 
-- 详情可参考[原型文档](http://nfunm047.gitee.io/museum_self_purchase_prototype)或上方的【操作说明-拍照搜索模块】。
+- 输入：商品（博物馆纪念品）图片
+
+- 输出：同款/相似商品（博物馆纪念品）信息
+
+- 详情可参考[原型文档](http://nfunm047.gitee.io/museum_self_purchase_prototype)或上方的【口头操作说明-搜索模块】。
 
 #### （3）AI加值——信息设计
 
-- 在信息设计的核心信息或设计——【扫描识别搜索框、用户拍摄的纪念品实物图】中，使用了人工智能的加值，即使用了【图像搜索服务——商品图片搜索】的加值。
+- 在信息设计的核心信息或设计——【博物馆纪念品实物图片】、【扫描搜索框】、【同款/相似纪念品信息列表】中，使用了人工智能的加值，即使用了【图像搜索服务——商品图片搜索】的加值。
 
-- 详情可参考[原型文档](http://nfunm047.gitee.io/museum_self_purchase_prototype)或上方的【操作说明-拍照搜索模块】
+- 详情可参考[原型文档](http://nfunm047.gitee.io/museum_self_purchase_prototype)或上方的【口头操作说明-搜索模块】
 
 #### （4）原型文档——展示、下载区
 
