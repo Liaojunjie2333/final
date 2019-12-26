@@ -228,7 +228,7 @@ if response:
 
 - 标准化接口封装，提供丰富的HTTP SDK，配套可视化图库管理后台，接入简单，快速上手；
 
-- 可查链接：[产品价格](https://ai.baidu.com/docs#/IMAGESEARCH-Pricing/c2ba822b)
+- 可查链接：[百度AI——图像搜索服务——产品价格](https://ai.baidu.com/docs#/IMAGESEARCH-Pricing/c2ba822b)
 
 
 **API成熟度方面**：
@@ -239,7 +239,7 @@ if response:
 
 - 支持亿级超大图库：自建图库支持亿级图片量上传入库，实现实时检索，单图毫秒级响应。
 
-- 可查链接：[产品优势](https://ai.baidu.com/tech/imagesearch/product)
+- 可查链接：[百度AI——图像搜索服务——产品优势](https://ai.baidu.com/tech/imagesearch/product)
 
 
 #### （2）竞争对手分析：阿里云——图像搜索服务
@@ -250,7 +250,7 @@ if response:
 
 - 采用购买按月（自然月）预付费资源包的计费方式；
 
-- 可查链接：[产品价格](https://help.aliyun.com/document_detail/85153.html?spm=a2c4g.11186623.6.544.41133d28ru7FxY)
+- 可查链接：[阿里云——图像搜索服务——产品价格](https://help.aliyun.com/document_detail/85153.html?spm=a2c4g.11186623.6.544.41133d28ru7FxY)
 
 **API成熟度方面**：
 
@@ -258,7 +258,7 @@ if response:
 
 - 搜索精度高：业内领先水平的搜索服务。
 
-- 可查链接：[产品优势](https://ai.aliyun.com/imagesearch?spm=5176.224200.h2v3icoap.194.4b1a6ed6KVRWe0&aly_as=I4K90Mri)
+- 可查链接：[阿里云——图像搜索服务——产品优势](https://ai.aliyun.com/imagesearch?spm=5176.224200.h2v3icoap.194.4b1a6ed6KVRWe0&aly_as=I4K90Mri)
 
 #### （3）总结
 
