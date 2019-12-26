@@ -96,23 +96,22 @@
 
 #### （1）产品基础结构图
 
-![产品基础结构图.png](https://upload-images.jianshu.io/upload_images/9455181-bf2292b1013f161f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![产品基本结构图.png](https://upload-images.jianshu.io/upload_images/9455181-8119ea8bb6552c51.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 #### （2）产品功能结构图
 
-![产品功能结构图.png](https://upload-images.jianshu.io/upload_images/9455181-fb20fc8a03f99a9d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+![产品功能结构图.png](https://upload-images.jianshu.io/upload_images/9455181-354496c0284fe3f8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 #### （3）产品信息结构图
 
-![产品信息结构图.png](https://upload-images.jianshu.io/upload_images/9455181-55a16ea7ad8899d8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![产品信息结构图.png](https://upload-images.jianshu.io/upload_images/9455181-fa76d52cf6aec398.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 ### （九）产品使用流程图
 ***
 - 若该网页的图片无法正常显示，请在[原型文档](http://nfunm047.gitee.io/museum_self_purchase_prototype)中查看。
 
-![流程图.png](https://upload-images.jianshu.io/upload_images/9455181-13ed5afbb958c32c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+![使用流程图.png](https://upload-images.jianshu.io/upload_images/9455181-20b03e9c6a2a6769.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### （十）产品原型
 ***
@@ -120,17 +119,7 @@
 
 #### （1）口头操作说明
 
-
-
-
-![微信授权模块.png](https://upload-images.jianshu.io/upload_images/9455181-461b31a871cfa1fe.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
-
-
-
-
-
+![微信授权模块.png](https://upload-images.jianshu.io/upload_images/9455181-2803bd75d29e4c65.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![拍照搜索模块01.png](https://upload-images.jianshu.io/upload_images/9455181-fde0ff9d7e9d9e0b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -144,18 +133,9 @@
 
 ![拍照搜索模块06.png](https://upload-images.jianshu.io/upload_images/9455181-0cda037dd5bc15d8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+![购物车模块.png](https://upload-images.jianshu.io/upload_images/9455181-e6a8f9c7703ce756.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-
-
-
-
-![购物车模块.png](https://upload-images.jianshu.io/upload_images/9455181-e1a9f2ac167a07d3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
-
-
-![我模块.png](https://upload-images.jianshu.io/upload_images/9455181-e8d6ced547465076.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+![我模块.png](https://upload-images.jianshu.io/upload_images/9455181-4d4da174c8322b16.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 #### （2）AI加值——交互及界面设计
 
