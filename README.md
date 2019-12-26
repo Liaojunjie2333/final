@@ -124,17 +124,18 @@
 
 #### * 操作说明-拍照搜索（商品图像搜索）模块
 
-![拍照搜索01.png](https://upload-images.jianshu.io/upload_images/9455181-bf19d1a5177e8035.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![拍照搜索模块01.png](https://upload-images.jianshu.io/upload_images/9455181-fde0ff9d7e9d9e0b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![拍照搜索02.png](https://upload-images.jianshu.io/upload_images/9455181-dd14c1d41794db68.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![拍照搜索模块02.png](https://upload-images.jianshu.io/upload_images/9455181-adc776e8d56858d8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![拍照搜索03.png](https://upload-images.jianshu.io/upload_images/9455181-49732efd9322e082.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![拍照搜索模块03.png](https://upload-images.jianshu.io/upload_images/9455181-e391b038b2e4ea8d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![拍照搜索04.png](https://upload-images.jianshu.io/upload_images/9455181-2bd7b22e4ba6c937.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![拍照搜索模块04.png](https://upload-images.jianshu.io/upload_images/9455181-8432c4a97fb0a784.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![拍照搜索05.png](https://upload-images.jianshu.io/upload_images/9455181-7a418c39bb450bf2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![拍照搜索模块05.png](https://upload-images.jianshu.io/upload_images/9455181-176616445f41b19a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![拍照搜索06.png](https://upload-images.jianshu.io/upload_images/9455181-aae00848d2d53835.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![拍照搜索模块06.png](https://upload-images.jianshu.io/upload_images/9455181-0cda037dd5bc15d8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 
 
