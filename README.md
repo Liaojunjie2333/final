@@ -111,7 +111,7 @@
 - 若该网页的图片无法正常显示，请在[原型文档](http://nfunm047.gitee.io/museum_self_purchase_prototype)中查看。
 
 #### （1）口头操作说明
-#### * 操作说明-微信授权模块
+
 
 
 
@@ -122,7 +122,7 @@
 
 
 
-#### * 操作说明-拍照搜索（商品图像搜索）模块
+
 
 ![拍照搜索模块01.png](https://upload-images.jianshu.io/upload_images/9455181-fde0ff9d7e9d9e0b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -139,12 +139,12 @@
 
 
 
-#### * 操作说明-购物车模块
+
 
 ![购物车模块.png](https://upload-images.jianshu.io/upload_images/9455181-e1a9f2ac167a07d3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-#### * 操作说明-我模块
+
 
 ![我模块.png](https://upload-images.jianshu.io/upload_images/9455181-e8d6ced547465076.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
