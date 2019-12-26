@@ -176,7 +176,7 @@
 
 - [原型文档——展示](http://nfunm047.gitee.io/museum_self_purchase)
 
-- [原型文档——下载地址](https://github.com/Liaojunjie2333/museum_self_purchase_prototype)
+- [原型文档——下载地址](https://github.com/Liaojunjie2333/Museum_self_purchase)
 
 
 ## Part C. API
