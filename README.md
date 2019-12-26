@@ -119,7 +119,7 @@
 
 #### （1）口头操作说明
 
-![微信授权模块.png](https://upload-images.jianshu.io/upload_images/9455181-2803bd75d29e4c65.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![微信授权.png](https://upload-images.jianshu.io/upload_images/9455181-5023413d29770c81.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![拍照搜索01.png](https://upload-images.jianshu.io/upload_images/9455181-73a0e78102d5073d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
