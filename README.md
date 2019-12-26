@@ -121,19 +121,41 @@
 
 ![微信授权模块.png](https://upload-images.jianshu.io/upload_images/9455181-2803bd75d29e4c65.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![拍照搜索模块01.png](https://upload-images.jianshu.io/upload_images/9455181-fde0ff9d7e9d9e0b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+***
 
-![拍照搜索模块02.png](https://upload-images.jianshu.io/upload_images/9455181-adc776e8d56858d8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![拍照搜索01.png](https://upload-images.jianshu.io/upload_images/9455181-73a0e78102d5073d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![拍照搜索模块03.png](https://upload-images.jianshu.io/upload_images/9455181-e391b038b2e4ea8d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![拍照搜索02.png](https://upload-images.jianshu.io/upload_images/9455181-224abbcaf68e3b91.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![拍照搜索模块04.png](https://upload-images.jianshu.io/upload_images/9455181-8432c4a97fb0a784.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![拍照搜索03.png](https://upload-images.jianshu.io/upload_images/9455181-bd41c6257b775f02.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![拍照搜索模块05.png](https://upload-images.jianshu.io/upload_images/9455181-176616445f41b19a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![拍照搜索04.png](https://upload-images.jianshu.io/upload_images/9455181-5bb0810a522c622e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![拍照搜索模块06.png](https://upload-images.jianshu.io/upload_images/9455181-0cda037dd5bc15d8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![拍照搜索05.png](https://upload-images.jianshu.io/upload_images/9455181-456e1282a2b0f315.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![拍照搜索06.png](https://upload-images.jianshu.io/upload_images/9455181-26359f3a3d192975.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+***
+
+![相册图片搜索01.png](https://upload-images.jianshu.io/upload_images/9455181-6d82e8e1684d0b37.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![相册图片搜索02.png](https://upload-images.jianshu.io/upload_images/9455181-fce5b07dad2fdf44.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![相册图片搜索03.png](https://upload-images.jianshu.io/upload_images/9455181-241ca302d85894f2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![相册图片搜索04.png](https://upload-images.jianshu.io/upload_images/9455181-c5ae18c80ba48e51.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![拍照搜索04.png](https://upload-images.jianshu.io/upload_images/9455181-5bb0810a522c622e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![拍照搜索05.png](https://upload-images.jianshu.io/upload_images/9455181-456e1282a2b0f315.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![拍照搜索06.png](https://upload-images.jianshu.io/upload_images/9455181-26359f3a3d192975.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+***
 
 ![购物车模块.png](https://upload-images.jianshu.io/upload_images/9455181-e6a8f9c7703ce756.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+***
 
 ![我模块.png](https://upload-images.jianshu.io/upload_images/9455181-4d4da174c8322b16.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
