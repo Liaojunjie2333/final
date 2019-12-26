@@ -92,7 +92,7 @@
 
 ### （八）产品结构图
 ***
-- 若图片无法正常显示，请在[原型文档](http://nfunm047.gitee.io/museum_self_purchase_prototype)中查看。
+- 若图片无法正常显示，请在[原型文档](http://nfunm047.gitee.io/museum_self_purchase)中查看。
 
 #### （1）产品基础结构图
 
@@ -109,13 +109,13 @@
 
 ### （九）产品使用流程图
 ***
-- 若图片无法正常显示，请在[原型文档](http://nfunm047.gitee.io/museum_self_purchase_prototype)中查看。
+- 若图片无法正常显示，请在[原型文档](http://nfunm047.gitee.io/museum_self_purchase)中查看。
 
 ![使用流程图.png](https://upload-images.jianshu.io/upload_images/9455181-20b03e9c6a2a6769.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### （十）产品原型
 ***
-- 若原型图片无法正常显示，请在[原型文档](http://nfunm047.gitee.io/museum_self_purchase_prototype)中查看。
+- 若原型图片无法正常显示，请在[原型文档](http://nfunm047.gitee.io/museum_self_purchase)中查看。
 
 #### （1）口头操作说明
 
@@ -164,17 +164,17 @@
 
 - 输出：同款/相似商品（博物馆纪念品）信息
 
-- 详情可参考[原型文档](http://nfunm047.gitee.io/museum_self_purchase_prototype)或上方的【口头操作说明-搜索模块】。
+- 详情可参考[原型文档](http://nfunm047.gitee.io/museum_self_purchase)或上方的【口头操作说明-搜索模块】。
 
 #### （3）AI加值——信息设计
 
 - 在信息设计的核心信息或设计——【博物馆纪念品实物图片】、【扫描搜索框】、【同款/相似纪念品信息列表】中，使用了人工智能的加值，即使用了【图像搜索服务——商品图片搜索】的加值。
 
-- 详情可参考[原型文档](http://nfunm047.gitee.io/museum_self_purchase_prototype)或上方的【口头操作说明-搜索模块】
+- 详情可参考[原型文档](http://nfunm047.gitee.io/museum_self_purchase)或上方的【口头操作说明-搜索模块】
 
 #### （4）原型文档——展示、下载区
 
-- [原型文档——展示](http://nfunm047.gitee.io/museum_self_purchase_prototype)
+- [原型文档——展示](http://nfunm047.gitee.io/museum_self_purchase)
 
 - [原型文档——下载地址](https://github.com/Liaojunjie2333/museum_self_purchase_prototype)
 
